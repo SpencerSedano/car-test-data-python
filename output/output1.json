@@ -1,0 +1,410 @@
+[
+  {
+    "extraction_method": "lattice",
+    "top": 109.256905,
+    "left": 57.046665,
+    "width": 482.0895080566406,
+    "height": 651.2570190429688,
+    "right": 539.13617,
+    "bottom": 760.5139,
+    "data": [
+      [
+        {
+          "top": 109.256905,
+          "left": 57.046665,
+          "width": 42.33671951293945,
+          "height": 43.45775604248047,
+          "text": "Number"
+        },
+        {
+          "top": 109.256905,
+          "left": 99.383385,
+          "width": 42.59777069091797,
+          "height": 43.45775604248047,
+          "text": "Answer"
+        },
+        {
+          "top": 109.256905,
+          "left": 141.98116,
+          "width": 397.155029296875,
+          "height": 43.45775604248047,
+          "text": "Question"
+        }
+      ],
+      [
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 121.099976,
+          "left": 310.87,
+          "width": 61.32000732421875,
+          "height": 18.84002685546875,
+          "text": "Question"
+        }
+      ],
+      [
+        {
+          "top": 152.71466,
+          "left": 57.046665,
+          "width": 42.33671951293945,
+          "height": 53.03996276855469,
+          "text": "001"
+        },
+        {
+          "top": 152.71466,
+          "left": 99.383385,
+          "width": 42.59777069091797,
+          "height": 53.03996276855469,
+          "text": "O"
+        },
+        {
+          "top": 152.71466,
+          "left": 141.98116,
+          "width": 397.155029296875,
+          "height": 53.03996276855469,
+          "text": "Valuing life should be the top priority of driving ethics. Drivers should respect\rpedestrians and yield to the elderly, children, and the disabled at all times."
+        }
+      ],
+      [
+        {
+          "top": 205.75462,
+          "left": 57.046665,
+          "width": 42.33671951293945,
+          "height": 25.9208984375,
+          "text": "002"
+        },
+        {
+          "top": 205.75462,
+          "left": 99.383385,
+          "width": 42.59777069091797,
+          "height": 25.9208984375,
+          "text": "X"
+        },
+        {
+          "top": 205.75462,
+          "left": 141.98116,
+          "width": 397.155029296875,
+          "height": 25.9208984375,
+          "text": "Abiding by the traffic regulations has nothing to do with driving ehics."
+        }
+      ],
+      [
+        {
+          "top": 231.67552,
+          "left": 57.046665,
+          "width": 42.33671951293945,
+          "height": 39.50868225097656,
+          "text": "003"
+        },
+        {
+          "top": 231.67552,
+          "left": 99.383385,
+          "width": 42.59777069091797,
+          "height": 39.50868225097656,
+          "text": "O"
+        },
+        {
+          "top": 231.67552,
+          "left": 141.98116,
+          "width": 397.155029296875,
+          "height": 39.50868225097656,
+          "text": "A gasoline fire should be put out by a fire extinguisher, sand, a wet blanket, or\rwet clothing."
+        }
+      ],
+      [
+        {
+          "top": 271.1842,
+          "left": 57.046665,
+          "width": 42.33671951293945,
+          "height": 25.92059326171875,
+          "text": "004"
+        },
+        {
+          "top": 271.1842,
+          "left": 99.383385,
+          "width": 42.59777069091797,
+          "height": 25.92059326171875,
+          "text": "O"
+        },
+        {
+          "top": 271.1842,
+          "left": 141.98116,
+          "width": 397.155029296875,
+          "height": 25.92059326171875,
+          "text": "Yielding and tolerance are indicators of good driving ethics."
+        }
+      ],
+      [
+        {
+          "top": 297.1048,
+          "left": 57.046665,
+          "width": 42.33671951293945,
+          "height": 25.559661865234375,
+          "text": "005"
+        },
+        {
+          "top": 297.1048,
+          "left": 99.383385,
+          "width": 42.59777069091797,
+          "height": 25.559661865234375,
+          "text": "O"
+        },
+        {
+          "top": 297.1048,
+          "left": 141.98116,
+          "width": 397.155029296875,
+          "height": 25.559661865234375,
+          "text": "You should yield to oncoming vehicles on a narrow road."
+        }
+      ],
+      [
+        {
+          "top": 322.66446,
+          "left": 57.046665,
+          "width": 42.33671951293945,
+          "height": 53.5196533203125,
+          "text": "006"
+        },
+        {
+          "top": 322.66446,
+          "left": 99.383385,
+          "width": 42.59777069091797,
+          "height": 53.5196533203125,
+          "text": "O"
+        },
+        {
+          "top": 322.66446,
+          "left": 141.98116,
+          "width": 397.155029296875,
+          "height": 53.5196533203125,
+          "text": "Although drivers have the right of way when they have a greenlight, they are still\rrequired to watch out for jaywalkers and vehicles that run through red lights."
+        }
+      ],
+      [
+        {
+          "top": 376.1841,
+          "left": 57.046665,
+          "width": 42.33671951293945,
+          "height": 53.39984130859375,
+          "text": "007"
+        },
+        {
+          "top": 376.1841,
+          "left": 99.383385,
+          "width": 42.59777069091797,
+          "height": 53.39984130859375,
+          "text": "X"
+        },
+        {
+          "top": 376.1841,
+          "left": 141.98116,
+          "width": 397.155029296875,
+          "height": 53.39984130859375,
+          "text": "I see a car accident has taken place up ahead; someone was hurt, but nobody is\rhelping. I can see and hear the injured person screaming, but because I am in a\rhurry, I can ignore him."
+        }
+      ],
+      [
+        {
+          "top": 429.58395,
+          "left": 57.046665,
+          "width": 42.33671951293945,
+          "height": 53.300140380859375,
+          "text": "008"
+        },
+        {
+          "top": 429.58395,
+          "left": 99.383385,
+          "width": 42.59777069091797,
+          "height": 53.300140380859375,
+          "text": "O"
+        },
+        {
+          "top": 429.58395,
+          "left": 141.98116,
+          "width": 397.155029296875,
+          "height": 53.300140380859375,
+          "text": "Inspecting our cars to make sure they are in good condition before we drive and\ryielding to pedestrians and other vehicles when on the road displays good\rdriving ethics."
+        }
+      ],
+      [
+        {
+          "top": 482.8841,
+          "left": 57.046665,
+          "width": 42.33671951293945,
+          "height": 39.48004150390625,
+          "text": "009"
+        },
+        {
+          "top": 482.8841,
+          "left": 99.383385,
+          "width": 42.59777069091797,
+          "height": 39.48004150390625,
+          "text": "X"
+        },
+        {
+          "top": 482.8841,
+          "left": 141.98116,
+          "width": 397.155029296875,
+          "height": 39.48004150390625,
+          "text": "If a driver overtakes me to avoid getting dusty, I should pass them for the same\rreason."
+        }
+      ],
+      [
+        {
+          "top": 522.36414,
+          "left": 57.046665,
+          "width": 42.33671951293945,
+          "height": 53.521240234375,
+          "text": "010"
+        },
+        {
+          "top": 522.36414,
+          "left": 99.383385,
+          "width": 42.59777069091797,
+          "height": 53.521240234375,
+          "text": "X"
+        },
+        {
+          "top": 522.36414,
+          "left": 141.98116,
+          "width": 397.155029296875,
+          "height": 53.521240234375,
+          "text": "The road is flooded with dirty water after heavy rains. There are lots of\rpedestrians but I hate to block traffic so it\u0027s best that I speed up and pass them\rquickly."
+        }
+      ],
+      [
+        {
+          "top": 575.8854,
+          "left": 57.046665,
+          "width": 42.33671951293945,
+          "height": 53.30938720703125,
+          "text": "011"
+        },
+        {
+          "top": 575.8854,
+          "left": 99.383385,
+          "width": 42.59777069091797,
+          "height": 53.30938720703125,
+          "text": "O"
+        },
+        {
+          "top": 575.8854,
+          "left": 141.98116,
+          "width": 397.155029296875,
+          "height": 53.30938720703125,
+          "text": "You have to consider the safety and comfort of your passengers, and pay\rattention to the safety of other vehicles and pedestrians on the road whenever you\rstart your car, shift gears, turn, or brake."
+        }
+      ],
+      [
+        {
+          "top": 629.19476,
+          "left": 57.046665,
+          "width": 42.33671951293945,
+          "height": 25.80047607421875,
+          "text": "012"
+        },
+        {
+          "top": 629.19476,
+          "left": 99.383385,
+          "width": 42.59777069091797,
+          "height": 25.80047607421875,
+          "text": "O"
+        },
+        {
+          "top": 629.19476,
+          "left": 141.98116,
+          "width": 397.155029296875,
+          "height": 25.80047607421875,
+          "text": "It is very inconsiderate behavior to honk the horn at random."
+        }
+      ],
+      [
+        {
+          "top": 654.99524,
+          "left": 57.046665,
+          "width": 42.33671951293945,
+          "height": 53.2781982421875,
+          "text": "013"
+        },
+        {
+          "top": 654.99524,
+          "left": 99.383385,
+          "width": 42.59777069091797,
+          "height": 53.2781982421875,
+          "text": "X"
+        },
+        {
+          "top": 654.99524,
+          "left": 141.98116,
+          "width": 397.155029296875,
+          "height": 53.2781982421875,
+          "text": "Although vision, hearing, and judgment all become impaired when drinking\ralcohol, alcohol makes people feel good. Therefore, it\u0027s okay for people to drive\rafter drinking."
+        }
+      ],
+      [
+        {
+          "top": 708.27344,
+          "left": 57.046665,
+          "width": 42.33671951293945,
+          "height": 52.240478515625,
+          "text": "014"
+        },
+        {
+          "top": 708.27344,
+          "left": 99.383385,
+          "width": 42.59777069091797,
+          "height": 52.240478515625,
+          "text": "X"
+        },
+        {
+          "top": 708.27344,
+          "left": 141.98116,
+          "width": 397.155029296875,
+          "height": 52.240478515625,
+          "text": "My car breaks down in the fast lane, blocking traffic, and may cause safety\rproblems. As I am running late, I think it OK if I can fix it up quickly and drive\raway."
+        }
+      ]
+    ]
+  },
+  {
+    "extraction_method": "lattice",
+    "top": 109.256905,
+    "left": 141.98116,
+    "width": 397.155029296875,
+    "height": 43.45775604248047,
+    "right": 539.13617,
+    "bottom": 152.71466,
+    "data": [
+      [
+        {
+          "top": 109.256905,
+          "left": 141.98116,
+          "width": 397.155029296875,
+          "height": 43.45775604248047,
+          "text": "Question"
+        }
+      ],
+      [
+        {
+          "top": 121.099976,
+          "left": 310.87,
+          "width": 61.32000732421875,
+          "height": 18.84002685546875,
+          "text": "Question"
+        }
+      ]
+    ]
+  }
+]
