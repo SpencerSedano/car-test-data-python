@@ -28,5 +28,5 @@ tabula.convert_into(
     "output3_all_pages.csv",
     output_format="csv",
     pages="all",
-    lattice=True,
+    lattice=True,  # It does not counts each new line as a new question, if it is False, it does not work as expected
 )

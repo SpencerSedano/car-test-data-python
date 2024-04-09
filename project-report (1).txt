@@ -1,0 +1,51 @@
+Second Report for a Student Chosen Project
+
+Do the following:
+
+1. In the table below, list the dates, amount of time spent, and
+description of the work that you did on your project. Follow the example
+that is in the first row of the table below. Include the time you spent
+doing any of the following:
+    a. discussing your project with your teacher, tutor, or fellow students
+    2024-04-03  2.0     I had a conversation with my classmate about my project. The talking with my classmate really helped me out to
+    organize my ideas and put them into coding. At that time, I have written some example code but it was not complete at all.
+
+    b. researching by reading articles and watching applicable videos
+    2024-03-25  5.0      I started thinking how to do it my project because I had an idea of what to do. I was looking into the Ministry
+    of Transportation website to get the data. I realized that the data was only in PDF format and I was hoping to at least get the
+    data in CSV or JSON format, so I spent some hours looking through it. I also spent quite a lot of time because I did not want to use
+    the PDF format without making sure that there was no other better file to extract the data from. 
+
+    c. designing your project by drawing diagrams and other applicable documents
+    2024-03-26  1.0     Before starting to write any code, I drew in a writing tablet what where my ideas to start to write code. How
+    I was going to write it and I drew a small plan. Unfortunately, my writing tablet cannot be saved and with a button all is deleted.
+    More than a writing tablet, it is a writing tablet for kids.
+
+    d. writing experimental code
+    2024-03-31  2.0     When I knew that there was no CSV file and only a PDF file of the data that I wanted, I first used a library called
+    PyPDF. I tried to extract the data from my PDF into a dictionary with it but it did not work because it was extracting more information
+    that I needed. I saw that the PDF was in tabular data, and I found another library called Tabula. Tabula worked much better.
+
+    d. writing code for your project
+    2024-04-06 2.0      I had more progress with my code. I tried to make sure that I fulfill the project requirements.
+    I wrote 4 functions. 
+    e. writing test functions
+    2024-04-06 2.0      This was the hardest part for me. Hopefully, I am testing my program correctly.
+    Because my program asks an input from the user. It was harder to test it. I wrote some comments on my program
+    explaining it.
+    f. debugging your code
+    2024-04-07 1.0      I probably spent more than one hour, I read the docs, read some StackOverflow answers, and watch some YouTube videos.
+
+=============Example====================
+            Time Spent
+   Date       (hours)   Description of Work
+----------  ----------  -------------------------
+2021-12-03      2.5     Wrote two program functions and two test functions
+2021-12-03      .5      Watched video on 
+=============Example====================
+
+
+
+2. In Canvas, submit this completed text file, your Python program, your
+Python test file, and any project data files such as .txt and .csv files and
+link to video walkthrough if needed.
