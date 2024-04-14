@@ -4,6 +4,15 @@
     <title>Car Mock Test</title>
   </head>
   <body>
-    <h1>Hello, index</h1>
+    <h1>Welcome</h1>
+    <h2>These are all the true or false questions</h2>
+    <a href="{%url 'quiz:exam'  %}">Click here to start the mock test</a>
+    <ul>
+      {%for row in list_questions%}
+      <li>
+        {{row.question_number}} {{row.question_answer}} {{row.question_text}}
+      </li>
+      {%endfor%}
+    </ul>
   </body>
 </html>
